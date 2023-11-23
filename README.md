@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm Lisa</h1>
+<h1 align="center">Hey, I'm Lisa :)</h1>
 <h3 align="center">Im an Interactive Media Designer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me there !</h3>
 <p align="left">
 <a href="https://fb.com/lisa-staruch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lisa-staruch" height="30" width="40" /></a>
 <a href="https://www.behance.net/lisastaruch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lisastaruch" height="30" width="40" /></a>
