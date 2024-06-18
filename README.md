@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Lisa</h1>
-<h3 align="center">Im an Interactive Media Designer</h3>
+<h3 align="center">Im an Interactive Media Designer, UI/UX and Frontend Designer</h3>
 
 <h3 align="left">Find me here !</h3>
 <p align="left">
