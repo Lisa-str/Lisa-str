@@ -6,9 +6,9 @@
 <a href="https://www.behance.net/lisastaruch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="lisastaruch" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lisa-str&show_icons=true&locale=en" alt="lisa-str" /></p>
+    <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lisa-str&show_icons=true&locale=en" alt="lisa-str" /></p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lisa-str&show_icons=true&locale=en&layout=compact" alt="lisa-str" /></p>
+    <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lisa-str&show_icons=true&locale=en&layout=compact" alt="lisa-str" /></p> -->
 
 
 <h3 align="left">Languages and Tools:</h3>
